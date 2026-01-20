@@ -35,7 +35,7 @@ Technologies: C#, ASP.NET, HTML, CSS, JavaScript, Bootstrap, SQL Server.
    A console-based Java application designed to manage student records using a MySQL database.
 This project demonstrates Core Java, JDBC, MySQL integration, and follows a layered architecture suitable for beginners and freshers.
    
-   Technologies:Java (Core Java),MySQL,JDBC (Java Database Connectivity),VS Code,Git & GitHub
+   Technologies: Java (Core Java),MySQL,JDBC (Java Database Connectivity),VS Code,Git & GitHub
 
 ## Contact
 Feel free to reach out to me:
