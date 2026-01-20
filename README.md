@@ -32,8 +32,7 @@ Technologies: C#, ASP.NET, HTML, CSS, JavaScript, Bootstrap, SQL Server.
                 Database - MySQL
 
 3. **Student Management System**  
-   A console-based Java application designed to manage student records using a MySQL database.
-This project demonstrates Core Java, JDBC, MySQL integration, and follows a layered architecture suitable for beginners and freshers.
+   A console-based Java application designed to manage student records using a MySQL database.This project demonstrates Core Java, JDBC, MySQL integration, and follows a layered architecture suitable for beginners and freshers.
    
    Technologies: Java (Core Java),MySQL,JDBC (Java Database Connectivity),VS Code,Git & GitHub
 
