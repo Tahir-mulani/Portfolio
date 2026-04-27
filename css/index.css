@@ -131,7 +131,8 @@ nav a:hover {
 }
 
 .btn-primary:hover {
-  background-color: #d97706;
+ background-color: var(--white);
+  color: var(--dark-color);
 }
 
 .btn-outline {
